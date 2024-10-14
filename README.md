@@ -8,4 +8,3 @@
 </p>
 
 "# edtech_platform_studybhai" 
-"# edtech_platform_studybhai" 
